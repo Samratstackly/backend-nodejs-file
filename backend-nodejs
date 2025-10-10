@@ -23,3 +23,12 @@ app.post('/data', (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
+
+{
+  "name": "backend-nodejs-file",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "ISC"
+}
+
+
